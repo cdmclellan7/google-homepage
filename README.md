@@ -1,1 +1,1 @@
-This project is a clone of the Google homepage to practice basis HTML and CSS.
+This project is a clone of the Google homepage to practice basic HTML and CSS.
